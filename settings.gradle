@@ -1,1 +1,1 @@
-include ':app', ':ejerciciovista'
+include ':app', ':ejerciciovista', ':lifecicle', ':calculadora', ':intents', ':fragments'
