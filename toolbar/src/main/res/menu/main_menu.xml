@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_accion1"
+        android:title="Accion1">
+
+    </item>
+
+    <item android:id="@+id/bluethoot"
+        android:title="Bluethoot"
+        android:icon="@mipmap/ic_settings_bluetooth_white_24dp"
+        app:showAsAction="always">
+
+    </item>
+
+    <item android:id="@+id/menu_accion2"
+        android:title="Accion2">
+
+        </item>
+
+</menu>
