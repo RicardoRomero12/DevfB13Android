@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Quizz</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="burns">¿Quién disparó al Sr. Burns fue Maggie Simpson?</string>
+    <string name="nombre_homero">¿El nombre completo de Homero es, Homer Jeff Simpson?</string>
+    <string name="disfraz_lisa">¿Homero le hizo a Lisa un disfraz del Estado Norteamericano Nevada?</string>
+    <string name="mascota_juegos">¿Homero diseño una mascota llamada Muellin para los frustrados Juegos Olímpicos de Springfield?</string>
+    <string name="matricula">¿La matrícula personalizada que se agota en el parque temático Rascapiquilandia es Bort?</string>
 </resources>

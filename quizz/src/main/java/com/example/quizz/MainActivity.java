@@ -1,5 +1,6 @@
 package com.example.quizz;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -37,6 +38,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     Toast.makeText(MainActivity.this,"Es Necesario Ingresar Usuario",Toast.LENGTH_SHORT).show();
                 } else {
 
+                    Intent intent = new Intent(MainActivity.this, PlayActivity.class);
+                    intent.putExtra("name",nombre2);
+                    startActivity(intent);
                 }
         }
     }
