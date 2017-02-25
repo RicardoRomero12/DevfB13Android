@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/DevfB13.iml" filepath="$PROJECT_DIR$/DevfB13.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contactos/contactos.iml" filepath="$PROJECT_DIR$/contactos/contactos.iml" />
       <module fileurl="file://$PROJECT_DIR$/drawables/drawables.iml" filepath="$PROJECT_DIR$/drawables/drawables.iml" />
       <module fileurl="file://$PROJECT_DIR$/ejerciciovista/ejerciciovista.iml" filepath="$PROJECT_DIR$/ejerciciovista/ejerciciovista.iml" />
       <module fileurl="file://$PROJECT_DIR$/fabexample/fabexample.iml" filepath="$PROJECT_DIR$/fabexample/fabexample.iml" />
@@ -12,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/intents/intents.iml" filepath="$PROJECT_DIR$/intents/intents.iml" />
       <module fileurl="file://$PROJECT_DIR$/lifecicle/lifecicle.iml" filepath="$PROJECT_DIR$/lifecicle/lifecicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/listas/listas.iml" filepath="$PROJECT_DIR$/listas/listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listas2/listas2.iml" filepath="$PROJECT_DIR$/listas2/listas2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistenciadatos/persistenciadatos.iml" filepath="$PROJECT_DIR$/persistenciadatos/persistenciadatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/quizz/quizz.iml" filepath="$PROJECT_DIR$/quizz/quizz.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolbar/toolbar.iml" filepath="$PROJECT_DIR$/toolbar/toolbar.iml" />
     </modules>

@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements MyAdapter.MyItemL
         //recyclerView.setLayoutManager(new GridLayoutManager(this, 2));
         recyclerView.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false));
 
-        MyAdapter myAdapter= new MyAdapter(createListAnimales(),this);
+        MyAdapter myAdapter= new MyAdapter(getAnimales(),this);
 
         myAdapter.setMyItemListener(this);
 
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements MyAdapter.MyItemL
     }
 
 
-    private List<Animales> createListAnimales(){
+/*    private List<Animales> createListAnimales(){
 
         List<Animales> animales = new ArrayList<>();
         animales.add(new Animales("Perro","Cafe","http://comunidad.mascotadictos.com/uploads/default/8683/e6944b2043b5dd79.jpg"));
@@ -46,6 +46,13 @@ public class MainActivity extends AppCompatActivity implements MyAdapter.MyItemL
 
             return animales;
 
+    }*/
+
+
+    private List<Animales> getAnimales(){
+        RealmManager realmManager = new RealmManager();
+
+        return realmManager.getAnimals();
     }
 
     @Override
