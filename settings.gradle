@@ -1,1 +1,1 @@
-include ':app', ':ejerciciovista', ':lifecicle', ':calculadora', ':intents', ':fragments', ':fabexample', ':toolbar', ':drawables', ':quizz', ':listas', ':listas2', ':contactos', ':persistenciadatos'
+include ':app', ':ejerciciovista', ':lifecicle', ':calculadora', ':intents', ':fragments', ':fabexample', ':toolbar', ':drawables', ':quizz', ':listas', ':listas2', ':contactos', ':persistenciadatos', ':json', ':retrofit', ':retrofit2'
